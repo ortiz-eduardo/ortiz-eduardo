@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" style="display:block;float:none;margin-left:auto;margin-right:auto;hight:auto;" src="https://github.com/ortiz-eduardo/ortiz-eduardo/blob/master/recursos/undraw_freelancer_re_irh4.svg" height="175px"/></a>
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eduardo Ortiz aqui.</h1>
 <h3 align="center">Analista de Sistemas.</h3>
@@ -26,5 +26,5 @@
 ## Connect with me:
 <p align="left">
 
-<a href =""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href ="www.linkedin.com/in/eduardo-ortiz-2781b6168"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/eduardo.aortiz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
