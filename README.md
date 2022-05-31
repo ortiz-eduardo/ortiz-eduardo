@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" style="display:block;float:none;margin-left:auto;margin-right:auto;hight:auto;" src="https://github.com/ortiz-eduardo/ortiz-eduardo/blob/master/recursos/undraw_freelancer_re_irh4.svg" height="175px"/></a>
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eduardo Ortiz aqui.</h1>
-<h3 align="center">Analista de Sistemas.</h3>
+<h3 align="center">Profissonal de TI.</h3>
 
 <br>
 
