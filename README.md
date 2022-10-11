@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" style="display:block;float:none;margin-left:auto;margin-right:auto;hight:auto;" src="https://github.com/ortiz-eduardo/ortiz-eduardo/blob/master/recursos/undraw_freelancer_re_irh4.svg" height="175px"/></a>
 
 <h1 align="center">Eduardo Ortiz aqui.</h1>
-<h3 align="center">Engenheiro de Software</h3>
+<h3 align="center">Analista de TI</h3>
 
 <p align="left">
 Sou um profissional analítico, ambicioso e multidisciplinar - Acredito que conectar pontos em diferentes áreas me ajuda a entender e a conquistar objetivos.
@@ -9,14 +9,10 @@ Sou um profissional analítico, ambicioso e multidisciplinar - Acredito que cone
 Atualmente curso Sistemas de Informação e atuo na área de Tecnologia de Informação.
 
 Tenho experiência com:
-- Atendimento ao cliente;
-- Suporte Técnico;
 - Linguagem SQL;
 - Metodologia ágil: Scrum;
 - Analise de Requisitos;
 - Python;
-
-Minha caminhada esta orientada em aprimorar minhas habilidades técnicas e não técnicas rumo ao setor Tático/Estratégico.
     
 </p>    
 
