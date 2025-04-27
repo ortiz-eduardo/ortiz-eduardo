@@ -6,13 +6,6 @@
 <p align="left">
 Sou um profissional analítico, ambicioso e multidisciplinar - Acredito que conectar pontos em diferentes áreas me ajuda a entender e a conquistar objetivos.
 
-Atualmente curso Sistemas de Informação e atuo na área de Tecnologia de Informação.
-
-Tenho experiência com:
-- Linguagem SQL;
-- Metodologia ágil: Scrum;
-- Analise de Requisitos;
-- Python;
     
 </p>    
 
@@ -42,13 +35,12 @@ Tenho experiência com:
 <p align="left">
 
 <a href ="www.linkedin.com/in/oeduardoaortiz"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/eduardo.aortiz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!--<a href = "https://www.instagram.com/eduardo.aortiz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>-->
 
 <p align="left">
 
  - E-mail: eduardoortiz@uniplaclages.edu.br
-    
- - Fone: 49 9 91623731
+
 </p>
     
     
